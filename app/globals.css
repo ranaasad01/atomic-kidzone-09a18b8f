@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --background: #FFF9EC;
+  --foreground: #1A1A2E;
+  --card: #FFFFFF;
+  --border: #FFD93D;
+  --muted-foreground: #5A5A7A;
+  --primary: #FF6B6B;
+  --accent: #4D96FF;
+  --success: #6BCB77;
+  --highlight: #CC5DE8;
+  --orange: #FF922B;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fredoka One', sans-serif;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}

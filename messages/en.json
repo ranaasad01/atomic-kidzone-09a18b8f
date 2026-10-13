@@ -1,0 +1,1082 @@
+{
+  "nav": {
+    "home": "Home",
+    "miniGames": "Mini-Games",
+    "puzzles": "Puzzles",
+    "coloring": "Coloring",
+    "memoryChallenge": "Memory Challenge"
+  },
+  "footer": {
+    "explore": "Explore KidZone",
+    "safeAndFun": "Safe & Fun!",
+    "safeMessage": "KidZone is a safe place made just for kids. No sign-ups, no ads, just pure fun!",
+    "madeWithLove": "Made with ❤️ for kids everywhere!",
+    "copyright": "© 2024 KidZone. All rights reserved.",
+    "tagline": "Play. Learn. Grow."
+  },
+  "hero": {
+    "heading": "Welcome to KidZone! 🎉",
+    "body": "This is MY favourite place to play! There are games, puzzles, colouring, and memory challenges waiting for you. Pick something and let's have fun! 🌈",
+    "cta": "Let's Play!"
+  },
+  "activity-cards": [
+    {
+      "emoji": "🎮",
+      "title": "Mini-Games",
+      "description": "Play awesome little games like catching stars and popping bubbles! Can you beat your high score?",
+      "href": "/mini-games"
+    },
+    {
+      "emoji": "🧩",
+      "title": "Puzzles",
+      "description": "Drag the pieces and build cool pictures! Start easy or try a tricky one!",
+      "href": "/puzzles"
+    },
+    {
+      "emoji": "🎨",
+      "title": "Coloring",
+      "description": "Grab your favourite colours and paint amazing cartoon pictures! Save your art when you're done!",
+      "href": "/coloring"
+    },
+    {
+      "emoji": "🃏",
+      "title": "Memory Challenge",
+      "description": "Flip the cards and find the matching pairs! How fast can you find them all?",
+      "href": "/memory-challenge"
+    }
+  ],
+  "character-mascot": {
+    "heading": "Meet Zappy! ⚡",
+    "body": "Zappy is my best cartoon buddy! He lives here at KidZone and loves cheering you on. When you finish an activity, Zappy does a happy dance just for you! 🕺",
+    "cta": "Say hi to Zappy!"
+  },
+  "progress-tracker": [
+    {
+      "emoji": "⭐",
+      "text": "Finish a Mini-Game — earn 1 star!"
+    },
+    {
+      "emoji": "⭐",
+      "text": "Complete a Puzzle — earn 1 star!"
+    },
+    {
+      "emoji": "🌟",
+      "text": "Colour a whole picture — earn 2 stars!"
+    },
+    {
+      "emoji": "🌟",
+      "text": "Win the Memory Challenge — earn 2 stars!"
+    },
+    {
+      "emoji": "🏆",
+      "text": "Collect 6 stars — unlock a surprise from Zappy!"
+    }
+  ],
+  "progress-tracker-heading": "Your Stars ⭐",
+  "progress-tracker-body": "Every time you finish an activity, you earn a shiny star! Collect stars to fill up your trophy. How many can YOU get today? 🏆",
+  "sound-toggle": {
+    "heading": "Music On or Off? 🎵",
+    "body": "I love the fun music here! Press the button to turn the sounds and music on or off — whatever feels best for you! 🔊",
+    "cta": "Toggle Sound 🔊"
+  },
+  "mini-games-header": {
+    "heading": "🎮 Mini-Games!",
+    "body": "Pick a game and let's play! You can try lots of different games right here. Every time you finish one, you get a star! ⭐",
+    "cta": "Let's Go!"
+  },
+  "game-selector": [
+    {
+      "emoji": "🐸",
+      "title": "Frog Jump",
+      "description": "Help Freddy the Frog hop over logs without falling in the water!"
+    },
+    {
+      "emoji": "🌟",
+      "title": "Star Catcher",
+      "description": "Move your basket left and right to catch falling stars before they disappear!"
+    },
+    {
+      "emoji": "🎯",
+      "title": "Balloon Pop",
+      "description": "Tap the balloons as fast as you can before they float away!"
+    },
+    {
+      "emoji": "🐢",
+      "title": "Turtle Race",
+      "description": "Tap super fast to make your turtle zoom to the finish line first!"
+    },
+    {
+      "emoji": "🍎",
+      "title": "Fruit Sort",
+      "description": "Drag each fruit into the right basket — watch out for the sneaky veggies!"
+    },
+    {
+      "emoji": "🚀",
+      "title": "Space Dodge",
+      "description": "Steer your rocket ship and dodge the asteroids flying at you!"
+    }
+  ],
+  "game-canvas": [
+    {
+      "label": "Easy",
+      "description": "Great for beginners, nice and slow 🐢"
+    },
+    {
+      "label": "Medium",
+      "description": "A little faster, can you keep up? 🐇"
+    },
+    {
+      "label": "Hard",
+      "description": "Super speedy, only for brave players! 🦁"
+    }
+  ],
+  "game-canvas-heading": "Play Right Here! 🎉",
+  "game-canvas-body": "Your game shows up in this big space! Use your fingers or mouse to play. Press the big START button when you're ready.",
+  "game-canvas-cta": "Start Game!",
+  "score-display": [
+    {
+      "emoji": "⭐",
+      "label": "Score",
+      "description": "Every good move adds points, keep going!"
+    },
+    {
+      "emoji": "❤️",
+      "label": "Lives",
+      "description": "You get 3 hearts, don't lose them all!"
+    },
+    {
+      "emoji": "🎚️",
+      "label": "Level",
+      "description": "Finish a level to unlock the next one!"
+    }
+  ],
+  "score-display-heading": "How Are You Doing? 🏆",
+  "score-display-body": "Check your score, lives, and level right here while you play. Try to beat your best score!",
+  "completion-celebration-mini-games": [
+    {
+      "stars": "🌟",
+      "text": "1 Star — great start, you finished the game!"
+    },
+    {
+      "stars": "🌟🌟",
+      "text": "2 Stars — awesome, you did really well!"
+    },
+    {
+      "stars": "🌟🌟🌟",
+      "text": "3 Stars — PERFECT! You're a KidZone champion!"
+    }
+  ],
+  "completion-heading": "You Did It! 🎊🎉",
+  "completion-body": "WOW, amazing job! You finished the game! Confetti is flying everywhere just for you! Collect your stars and try another game!",
+  "completion-cta": "Play Again!",
+  "puzzles-header": {
+    "heading": "🧩 Puzzle Time!",
+    "body": "Drag the pieces and build the picture! Can you finish it? Let's find out! 🌟",
+    "cta": "Pick a Puzzle"
+  },
+  "puzzle-selector": [
+    {
+      "emoji": "🦁",
+      "title": "Roaring Lion",
+      "difficulty": "Easy",
+      "pieces": "9 pieces",
+      "description": "A big friendly lion in the sunny jungle!"
+    },
+    {
+      "emoji": "🚀",
+      "title": "Rocket in Space",
+      "difficulty": "Easy",
+      "pieces": "9 pieces",
+      "description": "Zoom past the stars and planets!"
+    },
+    {
+      "emoji": "🐠",
+      "title": "Coral Reef Friends",
+      "difficulty": "Medium",
+      "pieces": "16 pieces",
+      "description": "Colorful fish swimming together!"
+    },
+    {
+      "emoji": "🏰",
+      "title": "Magic Castle",
+      "difficulty": "Medium",
+      "pieces": "16 pieces",
+      "description": "A sparkly castle with a rainbow bridge!"
+    },
+    {
+      "emoji": "🦄",
+      "title": "Unicorn Meadow",
+      "difficulty": "Hard",
+      "pieces": "25 pieces",
+      "description": "A magical unicorn in a field of flowers!"
+    },
+    {
+      "emoji": "🌍",
+      "title": "Around the World",
+      "difficulty": "Hard",
+      "pieces": "25 pieces",
+      "description": "Landmarks from all over the globe!"
+    }
+  ],
+  "puzzle-canvas": [
+    {
+      "text": "Drag a piece from the tray on the right"
+    },
+    {
+      "text": "Drop it where you think it goes on the big board"
+    },
+    {
+      "text": "Pieces snap into place when they're in the right spot!"
+    },
+    {
+      "text": "Stuck? Tap the 🔍 Hint button for a little peek at the full picture"
+    },
+    {
+      "text": "Want to start over? Hit the 🔄 Shuffle button anytime"
+    }
+  ],
+  "puzzle-canvas-heading": "Build It! 🛠️",
+  "puzzle-canvas-body": "Drag each piece to the right spot. When two pieces fit together you'll hear a fun click! Keep going — you're doing amazing! 💪",
+  "puzzle-canvas-cta": "I Need a Hint 🔍",
+  "progress-bar": [
+    {
+      "stars": "⭐",
+      "text": "1 Star — You placed your first piece! Great start!"
+    },
+    {
+      "stars": "⭐⭐",
+      "text": "2 Stars — Halfway there! You're on fire! 🔥"
+    },
+    {
+      "stars": "⭐⭐⭐",
+      "text": "3 Stars — Puzzle complete! You're a puzzle champion! 🏆"
+    }
+  ],
+  "progress-bar-heading": "How Far Have You Got? ⭐",
+  "progress-bar-body": "Watch your progress bar fill up as you place more pieces! Every piece you get right earns you a star. Keep going — the finish line is close!",
+  "completion-celebration-puzzles": [
+    {
+      "text": "🏆 Puzzle Champion badge unlocked!"
+    },
+    {
+      "text": "🌟 3 stars added to your collection!"
+    },
+    {
+      "text": "🎨 Try the Coloring page next and colour your favourite picture!"
+    },
+    {
+      "text": "🧩 Pick another puzzle and beat your best time!"
+    }
+  ],
+  "coloring-header": {
+    "heading": "🎨 Color Time!",
+    "body": "Pick your colours and make something amazing! You can draw, colour, and create anything you want. There are no rules — just have fun! 🌈"
+  },
+  "color-palette": [
+    {
+      "emoji": "🔴",
+      "name": "Red",
+      "color": "#FF4444",
+      "description": "Super bold and bright!"
+    },
+    {
+      "emoji": "🟠",
+      "name": "Orange",
+      "color": "#FF922B",
+      "description": "Warm like the sun!"
+    },
+    {
+      "emoji": "🟡",
+      "name": "Yellow",
+      "color": "#FFD93D",
+      "description": "Happy and cheerful!"
+    },
+    {
+      "emoji": "🟢",
+      "name": "Green",
+      "color": "#6BCB77",
+      "description": "Like grass and frogs!"
+    },
+    {
+      "emoji": "🔵",
+      "name": "Blue",
+      "color": "#4D96FF",
+      "description": "Cool like the ocean!"
+    },
+    {
+      "emoji": "🟣",
+      "name": "Purple",
+      "color": "#CC5DE8",
+      "description": "Magical and fun!"
+    },
+    {
+      "emoji": "🩷",
+      "name": "Pink",
+      "color": "#FF6B9D",
+      "description": "Sweet and sparkly!"
+    },
+    {
+      "emoji": "🤎",
+      "name": "Brown",
+      "color": "#A0522D",
+      "description": "Great for animals!"
+    },
+    {
+      "emoji": "⚫",
+      "name": "Black",
+      "color": "#1A1A2E",
+      "description": "Perfect for outlines!"
+    },
+    {
+      "emoji": "⚪",
+      "name": "White",
+      "color": "#FFFFFF",
+      "description": "Use it to lighten things up!"
+    }
+  ],
+  "canvas-area": {
+    "heading": "Your Drawing Space! ✏️",
+    "body": "This is YOUR canvas! Draw, scribble, colour in shapes, or make up your own picture. Tap or drag your finger to start! Don't worry about mistakes — you can always erase! 😊",
+    "cta": "Start Drawing!"
+  },
+  "tool-options": [
+    {
+      "emoji": "🖌️",
+      "label": "Tiny Brush",
+      "description": "Great for small details and thin lines"
+    },
+    {
+      "emoji": "🖌️",
+      "label": "Medium Brush",
+      "description": "Just right for colouring most things"
+    },
+    {
+      "emoji": "🖌️",
+      "label": "Big Brush",
+      "description": "Fill in large spaces super fast!"
+    },
+    {
+      "emoji": "🧽",
+      "label": "Eraser",
+      "description": "Oops! Rub out any part you don't like"
+    },
+    {
+      "emoji": "🗑️",
+      "label": "Clear All",
+      "description": "Start your picture all over again from scratch"
+    }
+  ],
+  "tool-options-heading": "Your Art Tools 🛠️",
+  "tool-options-body": "Change your brush, use the eraser, or start fresh! Pick the tool that feels right for you.",
+  "save-share": [
+    {
+      "emoji": "💾",
+      "label": "Save My Drawing",
+      "description": "Download your art as a picture to keep forever!"
+    },
+    {
+      "emoji": "🖨️",
+      "label": "Print It Out",
+      "description": "Print your drawing and put it on the fridge!"
+    }
+  ],
+  "save-share-heading": "Show Off Your Art! 🌟",
+  "save-share-body": "Finished your masterpiece? Save it so you can look at it later! You did an amazing job — you're a real artist! 🎉",
+  "save-share-cta": "Save My Drawing!",
+  "memory-header": {
+    "heading": "Memory Challenge! 🧠✨",
+    "body": "Can you find all the matching pairs? Flip the cards and remember where each cartoon friend is hiding! The faster you go, the more stars you win! ⭐",
+    "cta": "Let's Play!"
+  },
+  "difficulty-selector": [
+    {
+      "label": "Easy 🌟",
+      "description": "8 cards, 4 pairs. Great for beginners! Find Sunny the Lion and friends!"
+    },
+    {
+      "label": "Medium 🌟🌟",
+      "description": "16 cards, 8 pairs. A bit trickier! More cartoon pals to remember!"
+    },
+    {
+      "label": "Hard 🌟🌟🌟",
+      "description": "24 cards, 12 pairs. Only memory champions can beat this one!"
+    }
+  ],
+  "difficulty-selector-heading": "Pick How Hard You Want It! 💪",
+  "difficulty-selector-body": "Start easy if you're new, or go super hard if you're a memory master! You can always try again!",
+  "game-board": [
+    {
+      "name": "Sunny the Lion",
+      "emoji": "🦁",
+      "description": "A big fluffy lion with a golden mane and a huge smile!"
+    },
+    {
+      "name": "Ziggy the Zebra",
+      "emoji": "🦓",
+      "description": "A speedy zebra with cool black-and-white stripes!"
+    },
+    {
+      "name": "Pip the Penguin",
+      "emoji": "🐧",
+      "description": "A tiny penguin who loves to dance and slide on ice!"
+    },
+    {
+      "name": "Rosie the Rabbit",
+      "emoji": "🐰",
+      "description": "A pink bunny with floppy ears and a carrot in her hand!"
+    },
+    {
+      "name": "Cosmo the Alien",
+      "emoji": "👽",
+      "description": "A little green alien with three eyes and a big wave!"
+    },
+    {
+      "name": "Blaze the Dragon",
+      "emoji": "🐉",
+      "description": "A friendly purple dragon who breathes rainbow fire!"
+    },
+    {
+      "name": "Finn the Fish",
+      "emoji": "🐟",
+      "description": "A sparkly blue fish who blows shiny bubbles!"
+    },
+    {
+      "name": "Mochi the Panda",
+      "emoji": "🐼",
+      "description": "A round, sleepy panda munching on bamboo!"
+    },
+    {
+      "name": "Bolt the Robot",
+      "emoji": "🤖",
+      "description": "A silver robot with blinking lights and a big heart!"
+    },
+    {
+      "name": "Luna the Owl",
+      "emoji": "🦉",
+      "description": "A wise little owl wearing tiny star-shaped glasses!"
+    },
+    {
+      "name": "Coco the Monkey",
+      "emoji": "🐒",
+      "description": "A cheeky monkey swinging from a rainbow vine!"
+    },
+    {
+      "name": "Sparky the Star",
+      "emoji": "⭐",
+      "description": "A glowing yellow star with a happy winking face!"
+    }
+  ],
+  "game-board-heading": "Flip the Cards! 🃏",
+  "game-board-body": "Tap a card to flip it over and see which cartoon friend is hiding! Find two that match to keep them! Find all the pairs to win! 🎉",
+  "game-board-cta": "Start Flipping!",
+  "score-timer": [
+    {
+      "label": "Moves",
+      "description": "Every time you flip two cards, that's one move. Try to keep it low!"
+    },
+    {
+      "label": "Time ⏱️",
+      "description": "The clock starts when you flip your first card. How fast can you go?"
+    },
+    {
+      "label": "Stars ⭐",
+      "description": "Finish with fewer moves to earn 1, 2, or 3 big gold stars!"
+    },
+    {
+      "label": "Best Score 🥇",
+      "description": "Your best moves and time are saved so you can try to beat yourself!"
+    }
+  ],
+  "score-timer-heading": "How Are You Doing? 🏆",
+  "score-timer-body": "Watch your moves and your time! Try to use fewer moves and finish faster to get more stars! You've got this! 💫",
+  "completion-celebration-memory": [
+    {
+      "text": "⭐ 1 Star — Amazing try! You finished the game, and that's super cool!"
+    },
+    {
+      "text": "⭐⭐ 2 Stars — Wow, great memory! You're really getting good at this!"
+    },
+    {
+      "text": "⭐⭐⭐ 3 Stars — PERFECT! You are a true Memory Champion! 🏆"
+    },
+    {
+      "text": "Play Again 🔄 — try to beat your best score!"
+    },
+    {
+      "text": "Try a Harder Level 💪 — ready for more cards and more cartoon friends?"
+    },
+    {
+      "text": "Go to Mini-Games 🎮 — check out even more fun games on KidZone!"
+    }
+  ],
+  "completion-celebration-memory-heading": "You Did It! 🎊🎉🎈",
+  "completion-celebration-memory-body": "WOW! You matched all the cartoon friends! You are a memory superstar! Collect your stars and try again to get an even better score!",
+  "miniGames": {
+    "hero": {
+      "title": "Mini-Games Zone 🎮",
+      "subtitle": "Pick a game, score 10 points, and win a celebration! How fast can you do it?"
+    },
+    "carousel": {
+      "label": "Game selector",
+      "prev": "Previous game",
+      "next": "Next game"
+    },
+    "gameNames": [
+      {
+        "id": "balloon-pop",
+        "name": "Balloon Pop",
+        "desc": "Tap the balloons before they float away! Every pop earns a point."
+      },
+      {
+        "id": "number-catch",
+        "name": "Number Catch",
+        "desc": "Catch only the number shown at the top. Wrong numbers cost a life!"
+      },
+      {
+        "id": "color-match",
+        "name": "Color Match",
+        "desc": "Tap the button that matches the color of the big circle. Be quick!"
+      },
+      {
+        "id": "whack-a-mole",
+        "name": "Whack-a-Mole",
+        "desc": "Bop the mole when it pops up! Miss it and you lose a life."
+      }
+    ],
+    "score": {
+      "points": "pts",
+      "lives": "Lives Left",
+      "level": "Level"
+    },
+    "progress": {
+      "label": "Progress to win"
+    },
+    "balloonPop": {
+      "start": "Start Popping!",
+      "popLabel": "Pop this balloon",
+      "tapHint": "Tap the balloons!"
+    },
+    "numberCatch": {
+      "start": "Start Catching!",
+      "catchLabel": "Catch the number",
+      "numLabel": "Number"
+    },
+    "colorMatch": {
+      "instruction": "Tap the button that matches this color!",
+      "targetLabel": "Target color",
+      "correct": "Correct!",
+      "wrong": "Oops!"
+    },
+    "whackAMole": {
+      "start": "Start Whacking!",
+      "holeLabel": "Mole hole"
+    },
+    "gameOver": {
+      "title": "Game Over!",
+      "subtitle": "You scored",
+      "tryAgain": "Try Again"
+    },
+    "celebration": {
+      "title": "You Won!",
+      "subtitle": "Amazing job! You scored all 10 points!",
+      "points": "You Earned Points!",
+      "playAgain": "Play Again",
+      "close": "Close celebration"
+    },
+    "tips": {
+      "heading": "Pro Tips"
+    },
+    "howToWin": {
+      "title": "How to Win",
+      "body": "Score {count} points in any game to unlock the celebration! You get 3 lives per round. Level up every 5 points for extra challenge.",
+      "badge1": "Score 10 to win",
+      "badge2": "3 lives per game",
+      "badge3": "Levels get harder"
+    }
+  },
+  "memoryChallenge": {
+    "hero": {
+      "title": "Memory Challenge",
+      "subtitle": "Flip the cards and find all the matching pairs. How fast can you finish?"
+    },
+    "chooseDifficulty": "Choose your difficulty",
+    "difficulty": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard",
+      "": "Pick Your Challenge"
+    },
+    "pairs": "Find the Matching Pairs",
+    "moves": "Moves",
+    "time": "Time",
+    "matched": "Matched",
+    "newGame": "New Game",
+    "tipsTitle": "Tips to Win",
+    "tips": [
+      {
+        "emoji": "👀",
+        "text": "Watch carefully when cards flip over. Try to remember where each animal lives!"
+      },
+      {
+        "emoji": "🧠",
+        "text": "Start from one corner and work your way across. A pattern helps your brain remember."
+      },
+      {
+        "emoji": "🐢",
+        "text": "Take your time on Easy mode first. Speed comes after you know the trick!"
+      },
+      {
+        "emoji": "🌟",
+        "text": "Fewer moves means more stars. Think before you flip to get a perfect score!"
+      }
+    ],
+    "modal": {
+      "title": "You Did It!",
+      "subtitle": "Amazing memory! You matched all the pairs!",
+      "playAgain": "Play Again",
+      "changeDifficulty": "Change Difficulty"
+    }
+  },
+  "hub": {
+    "hero": {
+      "badge": "Your Fun Headquarters!",
+      "title": "Welcome to the Activity Hub!",
+      "subtitle": "Pick a game, solve a puzzle, color a picture, or challenge your memory. Every activity earns you stars!",
+      "starBtn": "Collect a Star",
+      "starBtnAriaLabel": "Tap to collect a star"
+    },
+    "activities": {
+      "heading": "Choose Your Adventure",
+      "playBtn": "Let's Play!",
+      "items": [
+        {
+          "title": "Mini-Games",
+          "desc": "Quick and super fun games for everyone!",
+          "badge": "New games added!"
+        },
+        {
+          "title": "Puzzles",
+          "desc": "Put the pieces together and feel amazing!",
+          "badge": "Brain power!"
+        },
+        {
+          "title": "Coloring",
+          "desc": "Paint the world in your favorite colors!",
+          "badge": "Be creative!"
+        },
+        {
+          "title": "Memory Challenge",
+          "desc": "Flip cards and train your super memory!",
+          "badge": "Can you beat it?"
+        }
+      ]
+    },
+    "characters": {
+      "heading": "Meet Your Friends",
+      "sub": "These cool characters are here to cheer you on!",
+      "items": [
+        {
+          "name": "Dino",
+          "fact": "Loves to stomp and play hide-and-seek in the jungle!"
+        },
+        {
+          "name": "Robo",
+          "fact": "Beep boop! Can solve any puzzle in 3 seconds flat."
+        },
+        {
+          "name": "Uni",
+          "fact": "Sprinkles rainbow dust wherever she goes!"
+        },
+        {
+          "name": "Rocket",
+          "fact": "Zooms to the moon and back before breakfast!"
+        }
+      ]
+    },
+    "rewards": {
+      "heading": "Earn Stars for Playing",
+      "sub": "The more you play, the more stars you collect. Unlock a surprise at 6 stars!",
+      "colActivity": "Activity",
+      "colStars": "Stars Earned",
+      "items": [
+        {
+          "emoji": "🎮",
+          "label": "Mini-Game",
+          "stars": "1 star"
+        },
+        {
+          "emoji": "🧩",
+          "label": "Puzzle",
+          "stars": "1 star"
+        },
+        {
+          "emoji": "🎨",
+          "label": "Coloring Page",
+          "stars": "2 stars"
+        },
+        {
+          "emoji": "🃏",
+          "label": "Memory Challenge",
+          "stars": "2 stars"
+        },
+        {
+          "emoji": "🎁",
+          "label": "Unlock Surprise",
+          "stars": "6 stars total"
+        }
+      ]
+    },
+    "tips": {
+      "heading": "Tips for Super Players",
+      "sub": "Follow these tips to become a KidZone champion!",
+      "items": [
+        {
+          "emoji": "🌟",
+          "text": "Play every day to collect more stars and unlock cool surprises!"
+        },
+        {
+          "emoji": "🧠",
+          "text": "Memory Challenge gets easier the more you practice. Keep going!"
+        },
+        {
+          "emoji": "🎨",
+          "text": "There are no wrong colors in the coloring pages. Be as wild as you like!"
+        },
+        {
+          "emoji": "🏆",
+          "text": "Try the Hard difficulty in Mini-Games for extra bragging rights!"
+        },
+        {
+          "emoji": "🤝",
+          "text": "Play with a friend and take turns. Two brains are better than one!"
+        },
+        {
+          "emoji": "😄",
+          "text": "Having fun is the most important rule. Enjoy every second!"
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Ready to Have a Blast?",
+      "sub": "Jump into any activity and start earning stars right now. Your adventure is waiting!",
+      "primaryBtn": "Play Mini-Games",
+      "secondaryBtn": "Memory Challenge"
+    },
+    "love": {
+      "text": "Feeling creative today?",
+      "link": "Try Coloring!"
+    }
+  },
+  "coloring": {
+    "badge": "🎨 Art Studio",
+    "hero": {
+      "title": "Color Your World!",
+      "subtitle": "Pick your colors, grab a brush, and paint something amazing. Your canvas is waiting!"
+    },
+    "palette": {
+      "title": "Colors",
+      "colorLabel": "Pick color",
+      "custom": "Custom:"
+    },
+    "tools": {
+      "brushTitle": "Brush Size",
+      "brushSize": "Brush size",
+      "brushSlider": "Adjust brush size",
+      "actionsTitle": "Tools",
+      "eraserOn": "Eraser ON",
+      "eraserOff": "Use Eraser",
+      "clear": "Clear Canvas"
+    },
+    "canvas": {
+      "currentColor": "Color:",
+      "erasing": "Erasing",
+      "hint": "Draw freely!",
+      "ariaLabel": "Drawing canvas — use mouse or touch to paint"
+    },
+    "save": {
+      "title": "Save Your Art",
+      "download": "Download PNG",
+      "saved": "Saved!",
+      "hint": "Your drawing saves as a picture file you can keep forever!"
+    },
+    "tips": {
+      "title": "Fun Tips!",
+      "items": [
+        {
+          "emoji": "🖌️",
+          "text": "Use a big brush for backgrounds!"
+        },
+        {
+          "emoji": "🌈",
+          "text": "Mix colors by painting on top of each other."
+        },
+        {
+          "emoji": "✏️",
+          "text": "Try a tiny brush for details and outlines."
+        },
+        {
+          "emoji": "⭐",
+          "text": "Use the eraser to fix any mistakes."
+        },
+        {
+          "emoji": "💡",
+          "text": "Pick a custom color for something unique!"
+        }
+      ]
+    },
+    "reward": {
+      "title": "Earn 2 Stars!",
+      "desc": "Save your artwork to collect your star reward."
+    },
+    "gallery": {
+      "title": "Need Ideas? Try These!",
+      "subtitle": "Pick something fun to draw on your canvas.",
+      "drawIt": "Draw it!",
+      "items": [
+        {
+          "emoji": "🦄",
+          "label": "Unicorn",
+          "color": "#F72585"
+        },
+        {
+          "emoji": "🐉",
+          "label": "Dragon",
+          "color": "#7B2FBE"
+        },
+        {
+          "emoji": "🌈",
+          "label": "Rainbow",
+          "color": "#FF8C42"
+        },
+        {
+          "emoji": "🚀",
+          "label": "Rocket Ship",
+          "color": "#118AB2"
+        },
+        {
+          "emoji": "🌸",
+          "label": "Flower Garden",
+          "color": "#06D6A0"
+        },
+        {
+          "emoji": "🏰",
+          "label": "Magic Castle",
+          "color": "#FFD166"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Start a Brand New Painting!",
+      "subtitle": "Clear the canvas and create something totally new. Every masterpiece starts with one stroke!",
+      "button": "New Painting"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "The #1 Fun Zone for Kids!",
+      "headline": "Welcome to KidZone!",
+      "tagline": "Play, Learn, and Have Fun Every Day!",
+      "cta_play": "Start Playing",
+      "cta_color": "Start Coloring",
+      "image_alt": "Cartoon kids playing games and having fun"
+    },
+    "activities": {
+      "heading": "Pick Your Adventure",
+      "subheading": "Four amazing worlds to explore. Each one packed with fun, learning, and star rewards!",
+      "items": [
+        {
+          "key": "mini-games",
+          "title": "Mini-Games",
+          "description": "Jump, dodge, and score in fast and furious arcade adventures!",
+          "stars": 1
+        },
+        {
+          "key": "puzzles",
+          "title": "Puzzles",
+          "description": "Piece together wild scenes and train your super-smart brain!",
+          "stars": 1
+        },
+        {
+          "key": "coloring",
+          "title": "Coloring",
+          "description": "Paint cartoon friends with every color of the rainbow!",
+          "stars": 2
+        },
+        {
+          "key": "memory-challenge",
+          "title": "Memory Challenge",
+          "description": "Flip cards, find matches, and become a memory master!",
+          "stars": 2
+        }
+      ]
+    },
+    "characters": {
+      "heading": "Meet Your Friends",
+      "subheading": "These lovable cartoon characters are here to cheer you on every step of the way!",
+      "items": [
+        {
+          "name": "Zippy the Rocket",
+          "emoji": "🚀",
+          "quote": "Blast off to fun!"
+        },
+        {
+          "name": "Bubbles the Fish",
+          "emoji": "🐠",
+          "quote": "Dive into learning!"
+        },
+        {
+          "name": "Sunny the Star",
+          "emoji": "⭐",
+          "quote": "Shine every day!"
+        },
+        {
+          "name": "Pepper the Panda",
+          "emoji": "🐼",
+          "quote": "Play and grow!"
+        }
+      ]
+    },
+    "features": {
+      "heading": "Why Kids Love KidZone",
+      "subheading": "We built a magical place where every click leads to something exciting. Here is what makes us special:",
+      "image_alt": "Cartoon trophy with stars",
+      "items": [
+        {
+          "title": "Earn Stars",
+          "body": "Complete activities to collect shiny stars and unlock surprise rewards!"
+        },
+        {
+          "title": "Level Up",
+          "body": "Choose Easy, Medium, or Hard and watch yourself get better every day."
+        },
+        {
+          "title": "Safe and Fun",
+          "body": "A cozy, ad-free space designed just for curious kids like you."
+        },
+        {
+          "title": "New Every Day",
+          "body": "Fresh puzzles, new coloring pages, and surprise mini-games added all the time."
+        }
+      ]
+    },
+    "difficulty": {
+      "heading": "Choose Your Level",
+      "subheading": "Whether you are just starting out or a total champion, there is a level made just for you!",
+      "items": [
+        {
+          "difficulty": "easy",
+          "label": "Easy",
+          "emoji": "🐢",
+          "description": "Perfect for beginners. Take your time and have fun!"
+        },
+        {
+          "difficulty": "medium",
+          "label": "Medium",
+          "emoji": "🐇",
+          "description": "A bit tricky. Great for kids who want a real challenge!"
+        },
+        {
+          "difficulty": "hard",
+          "label": "Hard",
+          "emoji": "🦁",
+          "description": "Super hard! Only the bravest kids dare to try this level."
+        }
+      ]
+    },
+    "testimonials": {
+      "heading": "Kids Are Talking!",
+      "subheading": "Real kids, real fun. Here is what our players have to say about KidZone!",
+      "items": [
+        {
+          "name": "Mia, age 7",
+          "avatar": "🦄",
+          "text": "I love the coloring pages! I painted a rainbow dragon and it was SO cool!",
+          "stars": 5
+        },
+        {
+          "name": "Leo, age 9",
+          "avatar": "🦊",
+          "text": "The memory challenge is my favorite. I beat the hard level three times!",
+          "stars": 5
+        },
+        {
+          "name": "Zoe, age 6",
+          "avatar": "🐸",
+          "text": "Zippy the Rocket is my best friend. I play mini-games every single day!",
+          "stars": 5
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Ready to Play? Let's Go!",
+      "subheading": "Jump into KidZone right now. Pick a game, earn stars, and have the best time ever!",
+      "btn_games": "Play Mini-Games",
+      "btn_memory": "Memory Challenge"
+    }
+  },
+  "puzzles": {
+    "hero": {
+      "title": "Puzzle Time!",
+      "subtitle": "Pick a picture, choose your challenge level, and drag the pieces into place. Can you solve them all?"
+    },
+    "difficulty": {
+      "heading": "Choose Your Challenge Level",
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard",
+      "gridInfo": "{emoji} {label}: {grid}x{grid} grid ({total} pieces)"
+    },
+    "selector": {
+      "heading": "Pick a Puzzle",
+      "tapToPlay": "Tap to play"
+    },
+    "tips": {
+      "heading": "How to Play",
+      "items": [
+        "On desktop: drag pieces from the tray to the matching numbered slot.",
+        "On mobile: touch and drag pieces to the board.",
+        "Each piece has a number showing where it belongs.",
+        "Complete the puzzle to earn stars!"
+      ]
+    },
+    "canvas": {
+      "trayLabel": "Drag pieces to the matching numbered slot!",
+      "almostThere": "Almost there! Keep going!",
+      "progressLabel": "{placed} / {total} pieces placed"
+    },
+    "completion": {
+      "title": "You did it!",
+      "subtitle": "{puzzleName} puzzle complete!",
+      "playAgain": "Play Again",
+      "chooseAnother": "Choose Another Puzzle"
+    },
+    "puzzleList": {
+      "items": [
+        {
+          "id": "rocket",
+          "title": "Space Rocket",
+          "emoji": "🚀",
+          "theme": "Blast off into space!"
+        },
+        {
+          "id": "dolphin",
+          "title": "Friendly Dolphin",
+          "emoji": "🐬",
+          "theme": "Dive into the ocean!"
+        },
+        {
+          "id": "birthday-cake",
+          "title": "Birthday Cake",
+          "emoji": "🎂",
+          "theme": "Celebrate with cake!"
+        },
+        {
+          "id": "red-panda",
+          "title": "Red Panda",
+          "emoji": "🐼",
+          "theme": "Meet the fluffy panda!"
+        }
+      ]
+    }
+  }
+}
